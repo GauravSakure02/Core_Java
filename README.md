@@ -1,4 +1,4 @@
 
 
-*Core_Java Practise Codes*
+*Core_Java Practice Codes*
 
